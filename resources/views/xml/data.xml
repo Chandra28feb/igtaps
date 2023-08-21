@@ -1,0 +1,32 @@
+<users>
+    <user>
+        <name>chandra</name>
+        <email>chandra@test.com</email>
+        <mobile>4789547852</mobile>
+        <password>password</password>
+    </user>
+    <user>
+        <name>Hello world</name>
+        <email>hello@test.com</email>
+        <mobile>4789547852</mobile>
+        <password>password</password>
+    </user>
+        <user>
+        <name>chandra</name>
+        <email>chandra@test.com</email>
+        <mobile>4789547852</mobile>
+        <password>password</password>
+    </user>
+        <user>
+        <name>harmit sir</name>
+        <email>harmit@test.com</email>
+        <mobile>4789547852</mobile>
+        <password>password</password>
+    </user>
+        <user>
+        <name>shekhar</name>
+        <email>shekhar@test.com</email>
+        <mobile>4789547852</mobile>
+        <password>password</password>
+    </user>
+</users>
